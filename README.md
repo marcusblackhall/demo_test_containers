@@ -1,2 +1,2 @@
 # demo_test_containers
-Demo project showing how to use test containers to run an integration test again a docker container using testcontainers
+Demo project showing how to use test containers in an integration test. It will run against a Postgres database.
